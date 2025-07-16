@@ -22,6 +22,9 @@ To identify high-risk patient groups and trends related to early hospital readmi
 
 - Microsoft Excel (cleaning, pivot tables, charts)
 - Real-world dataset of diabetic patient admissions
+- Data cleaning and filtering  
+- Pivot tables and pivot charts  
+- Summary statistics and visual insights
 
 - 
 ## 📸 Visualization
