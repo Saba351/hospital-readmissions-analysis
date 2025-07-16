@@ -27,6 +27,7 @@ To identify high-risk patient groups and trends related to early hospital readmi
 ## 📸 Visualization
 
 ![Chart of Readmissions](Screenshot%202025-07-16%20172613.png)
+![Data Visualization](screenshot%20data%20viz.png)
 ## 💼 Author
 
 **Saba Shaikh**  
